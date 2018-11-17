@@ -3,7 +3,7 @@
   "name": "robotfriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Nilkamal/Robot-Friends",
+  "homepage": "https://robotfriendsnilkamal.netlify.com/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
